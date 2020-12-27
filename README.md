@@ -1,2 +1,2 @@
 # node-ts-template
-Template project for typescipt project with nodeJS
+Template project for NodeJS with typescript enabled
